@@ -18,3 +18,47 @@ O objetivo foi aprender:
 git add .
 git commit -m 'Atualizando README'
 git push 
+---
+## 📁Estrutura
+
+```
+meuPrimeiroprojetoJS
+|
+|-app.js
+|-informacoes.js
+|-operadores.js
+|-variavel.js
+|-readme.md
+|-imagem/
+
+```
+## Como executar
+
+```bash
+    node app.js
+```
+## Código
+
+```javascript
+    console.log("Ola, mundo");
+```
+## Resultado
+
+![imagem](./imagem/image.png)
+
+## Tecnologia
+- JavaScript
+- Node.js
+- VIsual Studio Code
+- Markdown
+
+## Oque eu aprendi
+- Criar arquivo JavaScript
+- Executar programas
+- Utilizar terminal
+- Criar README
+- Instalar extensões
+- Utilizar Markdown
+- GIT
+- Variaveis 
+- Operadores
